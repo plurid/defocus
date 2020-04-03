@@ -28,7 +28,7 @@ from all
 
 ```
 from cats
-	defocus white
+    defocus white
 ```
 
 `from` and `defocus` are language keywords,
