@@ -124,6 +124,43 @@ the around attribute will add 50 points to the top limit and reduce the base lim
 
 
 
+Extension of defocal entities
+
+oldest
+newest
+
+```
+given old make oldest
+    time 3 years
+```
+
+```
+given new
+generate newest
+    time 3 hours
+```
+
+given the already defined `old`/`new` defocal entities, generate new entities `oldest`/`newest`, containing data which appeared `3 years` ago or `3 hours` ago, respectively
+
+
+```
+given new, cats
+generate newcats
+    defocus humans
+```
+
+give the already defined `new` and `cats` defocal entities, generate a new entity `newcats` which defocuses `humans`
+
+which can then be used as
+
+```
+from all
+    defocus newcats
+```
+
+
+
+
 ## Packages
 
 
