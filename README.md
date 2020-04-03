@@ -13,9 +13,15 @@
 </h1>
 
 
-User Content (De)Interface (Un)Description Language: say explicitly what you don't want to receive, what you want to defocus.
+Apophatic† User Content Resolution: say explicitly what you don't want to receive, what you want to defocus.
 
-Simple examples:
+† Apophatic User Experience, put roughly, claims that nothing positive can be said about the Data which the User experiences.
+
+<i>apophatic</i>, latinized form of Greek <i>apophatikos</i>, from <i>apophasis</i> "denial, negation", from <i>apophanai</i> "to speak off", from <i>apo</i> "off, away from" + <i>phanai</i> "to speak". [ [etymology](https://www.etymonline.com/word/apophatic) ] [ [meaning](https://plato.stanford.edu/entries/mysticism/#ApopVsKata) ]
+
+
+
+### Examples
 
 - from `all` the posts in the database, defocus the ones containing `hate`
 
