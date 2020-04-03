@@ -17,14 +17,14 @@ User Content (De)Interface (Un)Description Language: say explicitly what you don
 
 Simple examples:
 
-- from all the posts in the database, defocus the ones containing hate
+- from `all` the posts in the database, defocus the ones containing `hate`
 
 ```
 from all
     defocus hate
 ```
 
-- from all the posts with cats, defocus the ones containing white
+- from all the posts with `cats`, defocus the ones containing `white`
 
 ```
 from cats
