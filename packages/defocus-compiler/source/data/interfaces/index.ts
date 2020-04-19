@@ -13,6 +13,25 @@ export interface DefocusCompileResult {
 }
 
 
-export interface DefocusEntity {
+export interface DefocusFrom {
+    from: string;
+    defocus: string;
+}
 
+
+export interface DefocusDefine {
+    high: string;
+    low: string;
+}
+
+
+export interface DefocusExplain {
+}
+
+
+export interface DefocusExplain {
+}
+
+
+export interface DefocusGenerate {
 }
