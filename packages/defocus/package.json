@@ -5,14 +5,14 @@
     "keywords": [
         "defocus"
     ],
-    "author": "Jan Cavel <caveljan@plurid.com> (https://plurid.com)",
+    "author": "ly3xqhl8g9 <ly3xqhl8g9@plurid.com> (https://plurid.com)",
     "license": "MIT",
     "repository": {
         "type": "git",
         "url": "https://github.com/plurid/defocus"
     },
     "bugs": {
-        "email": "feedback@plurid.com",
+        "email": "source@plurid.com",
         "url": "https://github.com/plurid/defocus/issues"
     },
     "homepage": "https://github.com/plurid/defocus/blob/master/packages/defocus/README.md",
