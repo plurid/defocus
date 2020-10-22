@@ -1,0 +1,22 @@
+{
+    project developer
+    space defocus
+    root ../
+    commands {
+        #build
+    }
+}
+
+
+build {
+    language typescript
+    context nodejs
+    input {
+        entrypoint source/index.ts
+    }
+    output {
+        target es5
+        directory build
+        name index.js
+    }
+}

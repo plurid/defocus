@@ -1,0 +1,5 @@
+#!/usr/bin/env node
+
+const defocus = require('../distribution/index.js');
+
+defocus.cli();

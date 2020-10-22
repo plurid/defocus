@@ -1,5 +1,0 @@
-#!/usr/bin/env node
-
-const datasign = require('../distribution/index.js');
-
-datasign.cli();
