@@ -1,6 +1,7 @@
 <p align="center">
     <img src="https://raw.githubusercontent.com/plurid/defocus/master/about/identity/defocus-logo.png" height="250px">
     <br />
+    <br />
     <a target="_blank" href="https://github.com/plurid/defocus/blob/master/LICENSE">
         <img src="https://img.shields.io/badge/license-MIT-blue.svg?colorB=1380C3&style=for-the-badge" alt="License: MIT">
     </a>
@@ -177,12 +178,3 @@ from all
 [@plurid/defocus][defocus] • the CLI application
 
 [defocus]: https://github.com/plurid/defocus/tree/master/packages/defocus
-
-
-<a target="_blank" href="https://www.npmjs.com/package/@plurid/defocus-compiler">
-    <img src="https://img.shields.io/npm/v/@plurid/defocus-compiler.svg?logo=npm&colorB=1380C3&style=for-the-badge" alt="Version">
-</a>
-
-[@plurid/defocus-compiler][defocus-compiler] • the compiler used in the main `defocus` package
-
-[defocus-compiler]: https://github.com/plurid/defocus/tree/master/packages/defocus-compiler
