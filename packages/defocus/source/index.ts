@@ -1,10 +1,9 @@
-import DefocusCompiler from '@plurid/defocus-compiler';
-
 import cli from './cli';
+import DefocusCompiler from './objects/Compiler';
 
 
 
 export {
     cli,
     DefocusCompiler,
-}
+};
