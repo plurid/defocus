@@ -39,11 +39,9 @@
         "prepublishOnly": "yarn build"
     },
     "dependencies": {
-        "@plurid/defocus-compiler": "^0.0.0",
         "commander": "^5.0.0"
     },
     "devDependencies": {
-        "@types/node": "^13.9.3",
-        "typescript": "^3.8.3"
+        "@types/node": "^13.9.3"
     }
 }
