@@ -1,9 +1,11 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/plurid/defocus/master/about/identity/defocus-logo.png" height="250px">
+    <a target="_blank" href="https://defocus.plurid.com">
+        <img src="https://raw.githubusercontent.com/plurid/defocus/master/about/identity/defocus-logo.png" height="250px">
+    </a>
     <br />
     <br />
     <a target="_blank" href="https://github.com/plurid/defocus/blob/master/LICENSE">
-        <img src="https://img.shields.io/badge/license-MIT-blue.svg?colorB=1380C3&style=for-the-badge" alt="License: MIT">
+        <img src="https://img.shields.io/badge/license-MIT-blue.svg?colorB=1380C3&style=for-the-badge" alt="License: DEL">
     </a>
 </p>
 
@@ -12,6 +14,12 @@
 <h1 align="center">
     defocus
 </h1>
+
+
+<h3>
+    Apophatic User Content Resolution
+</h3>
+
 
 
 Apophatic† User Content Resolution: say explicitly what you don't want to receive, what you want to defocus.
