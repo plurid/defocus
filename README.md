@@ -16,7 +16,7 @@
 </h1>
 
 
-<h3>
+<h3 align="center">
     Apophatic User Content Resolution
 </h3>
 
